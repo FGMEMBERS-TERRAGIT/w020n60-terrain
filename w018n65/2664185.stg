@@ -1,0 +1,5 @@
+OBJECT_BASE 2664185.btg
+OBJECT BIHU.btg
+OBJECT_SHARED Models/Airport/windsock.xml -17.426682 65.947748 8.0 0.00
+OBJECT_SHARED Models/Airport/windsock.xml -17.421920 65.957266 6.6 0.00
+OBJECT_SHARED Models/Airport/windsock_lit.xml -17.424640 65.951591 7.5 0.00
